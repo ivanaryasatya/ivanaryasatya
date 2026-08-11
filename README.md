@@ -1,6 +1,7 @@
 <div align="center">
-
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00979D,100:4285F4&height=200&section=header&text=Hi%20There!%20I'm%20Ivan%20Aryasatya&fontSize=32&fontColor=FFFFFF&animation=fadeIn&desc=IoT%20%7C%20Embedded%20%7C%20Robotics%20%7C%20Software%20Developer&descAlignY=55&descSize=16)
+<p align="center">
+  <img src="assets/banner.jpg" alt="Header Banner" width="100%">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=700&height=60&lines=IoT+Enthusiast;Embedded+Programmer;Robotics+Explorer;Software+Developer)](https://readme-typing-svg.demolab.com)
 
