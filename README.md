@@ -127,8 +127,6 @@ HTML         ██░░░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-> ℹ️ This section updates automatically once the [WakaTime](https://wakatime.com) GitHub Action is configured with a `WAKATIME_API_KEY` secret — see setup notes below.
-
 ---
 
 ## 🎮 Fun Zone: Mini Games & Quote Generator
