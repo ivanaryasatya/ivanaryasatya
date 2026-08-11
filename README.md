@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="assets/banner-2.jpg" alt="Header Banner" width="100%">
+  <img src="assets/banner-4.png" alt="Header Banner" width="100%">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=700&height=60&lines=IoT+Enthusiast;Embedded+Programmer;Robotics+Explorer;Software+Developer)](https://readme-typing-svg.demolab.com)
