@@ -5,6 +5,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=700&height=60&lines=IoT+Enthusiast;Embedded+Programmer;Robotics+Explorer;Software+Developer)](https://readme-typing-svg.demolab.com)
 
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="IoT animation" width="64" />
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Embedded animation" width="64" />
+<img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Robotics animation" width="64" />
+<img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Code animation" width="64" />
+
+
 ![Github Followers](https://img.shields.io/github/followers/ivanaryasatya?style=for-the-badge)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/ivanaryasatya/ivanaryasatya?style=for-the-badge)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/ivanaryasatya/ivanaryasatya?style=for-the-badge)
@@ -18,10 +24,10 @@
 
 I'm a 10th-grade student at SMK Telkom Malang with a strong interest in **IoT, embedded programming, robotics, and software development**. Since I was young, I've enjoyed exploring electronic circuits, writing code, and turning ideas into real, working products.
 
-- 📍 Based in Malang, Indonesia
-- 🎯 Focused on real-world hardware + software projects
-- 💡 I love building small automation and robotics solutions
-- 🌱 Currently learning Python, C++, Arduino, and embedded networking
+- <img src="https://media.giphy.com/media/KD0gCHgjJ0pYl5Wj4k/giphy.gif" alt="location" width="22" /> Based in Malang, Indonesia
+- <img src="https://media.giphy.com/media/3oFzmkkOK8YeVnPq5y/giphy.gif" alt="target" width="22" /> Focused on real-world hardware + software projects
+- <img src="https://media.giphy.com/media/l0ExnZUqY3W3bN8aA/giphy.gif" alt="idea" width="22" /> I love building small automation and robotics solutions
+- <img src="https://media.giphy.com/media/3o7aD7ZkC9z3IZhH7W/giphy.gif" alt="growth" width="22" /> Currently learning Python, C++, Arduino, and embedded networking
 
 ## 🚀 Project Highlight: Feedo — Smart IoT Pet Feeder
 
