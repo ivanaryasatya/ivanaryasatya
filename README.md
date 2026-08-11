@@ -102,7 +102,7 @@ I'm a 10th-grade student at SMK Telkom Malang with a strong interest in **IoT, e
 <img src="https://github-readme-stats.vercel.app/api?username=ivanaryasatya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ivan's GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanaryasatya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanaryasatya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=ivanaryasatya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 
 </div>
 
