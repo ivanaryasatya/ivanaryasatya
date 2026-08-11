@@ -1,4 +1,6 @@
-# 👋 Halo, saya Ivan Aryasatya
+<div align="center">
+
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00979D,100:4285F4&height=200&section=header&text=Hi%20There!%20I'm%20Ivan%20Aryasatya&fontSize=32&fontColor=FFFFFF&animation=fadeIn&desc=IoT%20%7C%20Embedded%20%7C%20Robotics%20%7C%20Software%20Developer&descAlignY=55&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=700&height=60&lines=IoT+Enthusiast;Embedded+Programmer;Robotics+Explorer;Software+Developer)](https://readme-typing-svg.demolab.com)
 
@@ -7,94 +9,167 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/ivanaryasatya/ivanaryasatya?style=for-the-badge)
 ![GitHub Language Count](https://img.shields.io/github/languages/count/ivanaryasatya/ivanaryasatya?style=for-the-badge)
 
----
-
-## 🌟 Tentang Saya
-
-Saya seorang pelajar SMK Telkom Malang kelas 10 dengan minat besar pada **IoT, embedded programming, robotic, dan software development**. Sejak kecil saya suka mengeksplorasi rangkaian elektronik, menulis kode, dan mewujudkan ide menjadi produk nyata.
-
-- 📍 Berbasis di Malang, Indonesia
-- 🎯 Fokus pada proyek-proyek hardware + software yang real-world
-- 💡 Senang membuat solusi otomatisasi dan robotik kecil
-- 🌱 Sedang belajar Python, C++, Arduino, dan embedded networking
-
-## 🚀 Highlight Proyek: Feedo — Smart IoT Pet Feeder
-
-**Feedo** adalah proyek yang menggabungkan otomatisasi, IoT, dan kenyamanan untuk hewan peliharaan.
-
-- 🐶 Jadwal pemberian makan otomatis dengan sensor dan motor
-- 🌐 Kontrol & pemantauan lewat dashboard web sederhana
-- 📡 Otak perangkat: **ESP8266** dengan koneksi Wi-Fi
-- ⏱️ Fitur RTC dan keamanan untuk mencegah kegagalan
-- 🔋 Komponen: Servo motor, sensor, RTC, Firebase, tombol manual
-
-> "Membawa teknologi ke dalam kehidupan sehari-hari lewat perangkat IoT yang praktis."
+</div>
 
 ---
 
-## 🧩 Hobi & Minat
+## 🌟 About Me
 
-- 🤖 **Robotic** dan mobile robots kecil
-- 🌐 **IoT** untuk smart home, pet care, dan monitoring
-- 🔌 **Embedded Programming** dengan Arduino / ESP boards
-- 💻 **Software Development** untuk aplikasi web dan antarmuka
-- 🎮 Eksperimen logika dan otomasi lewat game seperti Minecraft
+I'm a 10th-grade student at SMK Telkom Malang with a strong interest in **IoT, embedded programming, robotics, and software development**. Since I was young, I've enjoyed exploring electronic circuits, writing code, and turning ideas into real, working products.
+
+- 📍 Based in Malang, Indonesia
+- 🎯 Focused on real-world hardware + software projects
+- 💡 I love building small automation and robotics solutions
+- 🌱 Currently learning Python, C++, Arduino, and embedded networking
+
+## 🚀 Project Highlight: Feedo — Smart IoT Pet Feeder
+
+**Feedo** is a project that combines automation, IoT, and convenience for pet care.
+
+- 🐶 Automatic feeding schedule using sensors and a motor
+- 🌐 Control & monitoring through a simple web dashboard
+- 📡 The device's brain: **ESP8266** with Wi-Fi connectivity
+- ⏱️ RTC and safety features to prevent failures
+- 🔋 Components: Servo motor, sensor, RTC, Firebase, manual button
+
+> "Bringing technology into everyday life through practical IoT devices."
 
 ---
 
-## 🛠️ Skill Utama
+## 🧩 Hobbies & Interests
 
-### Bahasa Pemrograman
+- 🤖 **Robotics** and small mobile robots
+- 🌐 **IoT** for smart homes, pet care, and monitoring
+- 🔌 **Embedded Programming** with Arduino / ESP boards
+- 💻 **Software Development** for web apps and interfaces
+- 🎮 Experimenting with logic and automation through games like Minecraft
 
-- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Hardware & Embedded
 
-- ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esp8266&logoColor=white)
-- ![Microcontroller](https://img.shields.io/badge/Microcontroller-00A6FF?style=for-the-badge&logo=arm&logoColor=white)
-- ![Sensor](https://img.shields.io/badge/Sensor-FDA50F?style=for-the-badge&logo=ni&logoColor=white)
-- ![Robotics](https://img.shields.io/badge/Robotics-4285F4?style=for-the-badge&logo=robotics&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esp8266&logoColor=white)
+![Microcontroller](https://img.shields.io/badge/Microcontroller-00A6FF?style=for-the-badge&logo=arm&logoColor=white)
+![Sensor](https://img.shields.io/badge/Sensor-FDA50F?style=for-the-badge&logo=ni&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-4285F4?style=for-the-badge&logo=robotics&logoColor=white)
 
-### Platform & Tools
+### Platforms & Tools
 
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-- ![PlatformIO](https://img.shields.io/badge/PlatformIO-1E50FF?style=for-the-badge&logo=platformio&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- ![Fritzing](https://img.shields.io/badge/Fritzing-FF6F00?style=for-the-badge&logo=fritzing&logoColor=white)
-- ![KiCad](https://img.shields.io/badge/KiCad-FF4F00?style=for-the-badge&logo=kicad&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-1E50FF?style=for-the-badge&logo=platformio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Fritzing](https://img.shields.io/badge/Fritzing-FF6F00?style=for-the-badge&logo=fritzing&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-FF4F00?style=for-the-badge&logo=kicad&logoColor=white)
 
 ---
 
 ## 📦 Toolchain & Workflow
 
-- 🧪 Desain rangkaian dan prototyping cepat
-- 🧩 Integrasi hardware + firmware
-- 🌐 Pengembangan dashboard web sederhana
-- 🛠️ Debugging sensor, komunikasi serial, dan konektivitas
-- 🔁 Dokumentasi proyek dan portfolio online
+- 🧪 Circuit design and rapid prototyping
+- 🧩 Hardware + firmware integration
+- 🌐 Simple web dashboard development
+- 🛠️ Debugging sensors, serial communication, and connectivity
+- 🔁 Project documentation and online portfolio
 
 ---
 
-## 📚 Belajar dan Fokus Saat Ini
+## 📚 Currently Learning & Focusing On
 
-- Embedded networking dan MQTT
+- Embedded networking and MQTT
 - IoT security & reliability
-- Robotik bergerak dengan kontrol motor
-- Pengembangan antarmuka berbasis web
-- Otomatisasi rumah dan monitoring lingkungan
+- Mobile robotics with motor control
+- Web-based interface development
+- Home automation and environmental monitoring
 
 ---
 
-## 📬 Hubungi Saya
+## 📊 Dynamic GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ivanaryasatya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ivan's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanaryasatya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanaryasatya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanaryasatya&theme=react-dark&hide_border=true" alt="Ivan's Activity Graph" width="90%" />
+
+</div>
+
+## ⏱️ Weekly Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
+```text
+From Aug 4, 2026 - Aug 11, 2026
+
+C++          ████████████░░░░░░░░░░░░   45.2%
+Python       ███████░░░░░░░░░░░░░░░░░   28.6%
+Arduino      █████░░░░░░░░░░░░░░░░░░░   16.1%
+HTML         ██░░░░░░░░░░░░░░░░░░░░░░   10.1%
+```
+<!--END_SECTION:waka-->
+
+> ℹ️ This section updates automatically once the [WakaTime](https://wakatime.com) GitHub Action is configured with a `WAKATIME_API_KEY` secret — see setup notes below.
+
+---
+
+## 🎮 Fun Zone: Mini Games & Quote Generator
+
+<div align="center">
+
+<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/ivanaryasatya/ivanaryasatya/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" width="90%" />
+
+</div>
+
+Want to challenge yourself? Try guessing my next commit streak, or fork this repo and race me on [WakaTime leaderboards](https://wakatime.com/leaders) 😄
+
+---
+
+## 📬 Contact Me
 
 - Portfolio: [https://s.id/ivanarya-portfolio](https://s.id/ivanarya-portfolio)
 - GitHub: [github.com/ivanaryasatya](https://github.com/ivanaryasatya)
 
-Jika kamu punya ide proyek IoT, robotik, otomatisasi, atau ingin berdiskusi tentang embedded programming, ayo ngobrol!
+If you have an idea for an IoT, robotics, or automation project, or just want to talk about embedded programming, let's chat!
 
+<div align="center">
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:00979D&height=100&section=footer)
+
+</div>
+
+---
+
+<details>
+<summary>⚙️ Setup notes (click to expand)</summary>
+
+Two widgets above need a one-time setup in your `ivanaryasatya/ivanaryasatya` repo before they'll display live data:
+
+1. **WakaTime section** — Install the [wakatime/github-action-wakatime](https://github.com/marketplace/actions/wakatime-readme) (or `anmol098/waka-readme`) Action, add your `WAKATIME_API_KEY` as a repo secret, and point it at the `<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->` markers above.
+2. **Contribution snake game** — Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a workflow file so it generates `github-contribution-grid-snake.svg` on an `output` branch, matching the image URL used above.
+
+Everything else (stats cards, top languages, streak stats, activity graph, typing SVG, quote generator, badges) works out of the box with no extra setup — they're all pulled live from public third-party APIs using your GitHub username.
+
+</details>
