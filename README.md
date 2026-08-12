@@ -160,15 +160,3 @@ If you have an idea for an IoT, robotics, or automation project, or just want to
 </div>
 
 ---
-
-<details>
-<summary>⚙️ Setup notes (click to expand)</summary>
-
-Two widgets above need a one-time setup in your `ivanaryasatya/ivanaryasatya` repo before they'll display live data:
-
-1. **WakaTime section** — Install the [wakatime/github-action-wakatime](https://github.com/marketplace/actions/wakatime-readme) (or `anmol098/waka-readme`) Action, add your `WAKATIME_API_KEY` as a repo secret, and point it at the `<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->` markers above.
-2. **Contribution snake game** — Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a workflow file so it generates `github-contribution-grid-snake.svg` on an `output` branch, matching the image URL used above.
-
-Everything else (stats cards, top languages, streak stats, activity graph, typing SVG, quote generator, badges) works out of the box with no extra setup — they're all pulled live from public third-party APIs using your GitHub username.
-
-</details>
